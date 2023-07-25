@@ -22,7 +22,7 @@
   "password.sr.only.helping.text": "Password must contain at least 8 characters, at least one letter, and at least one number",
   "tpa.alert.heading": "Almost done!",
   "login.third.party.auth.account.not.linked": "You have successfully signed into {currentProvider}, but your {currentProvider} account does not have a linked {platformName} account. To link your accounts, sign in now using your {platformName} password.",
-  "register.third.party.auth.account.not.linked": "You've successfully signed into {currentProvider}! We just need a little more information before you start learning with {platformName}.",
+  "register.third.party.auth.account.not.linked": "You've successfully signed into {currentProvider}! We just need a little more information before you start upskilling with {platformName}.",
   "registration.using.tpa.form.heading": "Finish creating your account",
   "zendesk.supportTitle": "edX Support",
   "zendesk.selectTicketForm": "Please choose your request type:",

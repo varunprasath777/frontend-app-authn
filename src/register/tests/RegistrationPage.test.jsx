@@ -482,7 +482,7 @@ describe('RegistrationPage', () => {
       });
 
       const expectedMessage = `${'You\'ve successfully signed into Apple! We just need a little more information before '
-                              + 'you start learning with '}${ getConfig().SITE_NAME }.`;
+                              + 'you start upskilling with '}${ getConfig().SITE_NAME }.`;
 
       const registrationPage = mount(reduxWrapper(<IntlRegistrationPage {...props} />));
       expect(registrationPage.find('#tpa-alert').find('p').text()).toEqual(expectedMessage);
